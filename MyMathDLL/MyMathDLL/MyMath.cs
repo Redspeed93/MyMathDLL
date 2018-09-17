@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MyMathDLL
 {
+    /// <summary>
+    /// Nick's awesome library
+    /// </summary>
     public static class MyMath
     {
         /// <summary>
